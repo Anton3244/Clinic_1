@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Doctors>
+  <Doctor>
+    <CabinetName>Травматологія</CabinetName>
+    <CabinetNumber>101</CabinetNumber>
+    <DoctorName>Іванов Іван Іванович</DoctorName>
+    <ReceptionDay>Понеділок</ReceptionDay>
+    <StartTime>09:00</StartTime>
+    <EndTime>17:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Кардіологія</CabinetName>
+    <CabinetNumber>102</CabinetNumber>
+    <DoctorName>Петров Петро Петрович</DoctorName>
+    <ReceptionDay>Вівторок</ReceptionDay>
+    <StartTime>10:00</StartTime>
+    <EndTime>18:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Хірургія</CabinetName>
+    <CabinetNumber>103</CabinetNumber>
+    <DoctorName>Сидоров Сидір Сидорович</DoctorName>
+    <ReceptionDay>Середа</ReceptionDay>
+    <StartTime>11:00</StartTime>
+    <EndTime>19:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Неврологія</CabinetName>
+    <CabinetNumber>104</CabinetNumber>
+    <DoctorName>Кузнєцова Марія Миколаївна</DoctorName>
+    <ReceptionDay>Четвер</ReceptionDay>
+    <StartTime>08:00</StartTime>
+    <EndTime>16:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Дерматологія</CabinetName>
+    <CabinetNumber>105</CabinetNumber>
+    <DoctorName>Лисенко Олена Олександрівна</DoctorName>
+    <ReceptionDay>П'ятниця</ReceptionDay>
+    <StartTime>09:00</StartTime>
+    <EndTime>17:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Офтальмологія</CabinetName>
+    <CabinetNumber>106</CabinetNumber>
+    <DoctorName>Сміт Джон</DoctorName>
+    <ReceptionDay>Субота</ReceptionDay>
+    <StartTime>10:00</StartTime>
+    <EndTime>14:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Стоматологія</CabinetName>
+    <CabinetNumber>107</CabinetNumber>
+    <DoctorName>Браун Анна</DoctorName>
+    <ReceptionDay>Неділя</ReceptionDay>
+    <StartTime>12:00</StartTime>
+    <EndTime>16:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName>Терапія</CabinetName>
+    <CabinetNumber>108</CabinetNumber>
+    <DoctorName>Сидоренко Марина Іванівна</DoctorName>
+    <ReceptionDay>Понеділок</ReceptionDay>
+    <StartTime>11:00</StartTime>
+    <EndTime>15:00</EndTime>
+  </Doctor>
+  <Doctor>
+    <CabinetName />
+    <CabinetNumber />
+    <DoctorName />
+    <ReceptionDay />
+    <StartTime />
+    <EndTime />
+  </Doctor>
+</Doctors>

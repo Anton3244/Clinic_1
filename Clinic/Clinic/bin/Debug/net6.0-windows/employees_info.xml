@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record>
+    <RoomName>Кардіолог</RoomName>
+    <RoomNumber>1</RoomNumber>
+    <DoctorName>ads</DoctorName>
+    <DayOfWeek>Середа</DayOfWeek>
+    <StartTime>PT10H</StartTime>
+    <EndTime>PT12H</EndTime>
+  </Record>
+</ArrayOfRecord>

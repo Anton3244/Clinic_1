@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <CabinetName>Травматологія</CabinetName>
+    <CabinetNumber>101</CabinetNumber>
+    <DoctorName>Іванов Іван Іванович</DoctorName>
+    <ReceptionDay>Понеділок</ReceptionDay>
+    <StartTime>09:00</StartTime>
+    <EndTime>17:00</EndTime>
+  </Employee>
+</Employees>
